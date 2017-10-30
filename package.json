@@ -1,0 +1,19 @@
+{
+  "name": "webtaskapi",
+  "version": "1.0.0",
+  "description": "API for the TangoCode's assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Esteban Bordon",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  },
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "mongoose": "^4.12.4"
+  }
+}
